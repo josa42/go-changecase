@@ -1,7 +1,7 @@
 # Change Case
 Convert strings between `camelCase`, `PascalCase`, `Title Case`, `snake_case`, `lowercase`, `UPPERCASE`, `CONSTANT_CASE` and more.
 
-[![Build Status](https://github.com/josa42/go-casechange/workflows/Test/badge.svg)](https://github.com/josa42/go-stringutils/actions?query=workflow%3ATest)
+[![Build Status](https://github.com/josa42/go-changecase/workflows/Test/badge.svg)](https://github.com/josa42/go-changecase/actions?query=workflow%3ATest)
 
 ## Installation
 
