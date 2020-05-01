@@ -6,7 +6,7 @@ Convert strings between `camelCase`, `PascalCase`, `Title Case`, `snake_case`, `
 ## Installation
 
 ```
-dep ensure -add github.com/josa42/go-changecase
+go get github.com/josa42/go-changecase
 ```
 
 ## Available functions
